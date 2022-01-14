@@ -2,4 +2,4 @@
 
 # This project is strictly educational. No monetary gain is accepted. All rights to the game, Adventure, belong to Warren Robinnet.
 
-# The lines that are part of the hack are marked with a comment "Music Hack". All of the rest of the code was written by the creator.
+# The lines that are part of the hack are marked with a comment "Music Hack". All of the rest of the code was written by the creator, with the exception of a change to the graphic of the sword. Its position is marked with the word "Hack".
