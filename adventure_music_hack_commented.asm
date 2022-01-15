@@ -2521,7 +2521,7 @@ SwordStates:
 ;Object #9 : State FF : Graphics                                                                                   
 GfxSword: ; Below is part of the Hack.
 	
-       ;RightF below is the old sword graphic.
+       ;Right below is the old sword graphic.
        ;.byte $20                  ;  X
        ;.byte $40                  ; X
        ;.byte $FF                  ;XXXXXXXX
