@@ -2519,8 +2519,9 @@ SwordStates:
        .byte $FF,<GfxSword,>GfxSword          ;State FF at &FD7C                                                             
                                                                                                                    
 ;Object #9 : State FF : Graphics                                                                                   
-GfxSword:
-
+GfxSword: ; Below is part of the Hack.
+	
+       ;RightF below is the old sword graphic.
        ;.byte $20                  ;  X
        ;.byte $40                  ; X
        ;.byte $FF                  ;XXXXXXXX
@@ -2528,6 +2529,7 @@ GfxSword:
        ;.byte $20                  ;  X
        ;.byte $00
        
+	; Below is the new sword graphic.
         .byte $0C ;     /XX
         .byte $1C ;    X/XX
         .byte $78 ;  XXX/X
